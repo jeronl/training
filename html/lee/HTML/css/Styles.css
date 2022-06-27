@@ -1,0 +1,53 @@
+h2
+{
+  color: rgb(19, 0, 128);
+  background-color: #ffff00;
+  text-align: center;
+  font-style: italic;
+  font-size: x-large;
+}
+body
+{
+  background-image: url("../images/Money\ heist.jpg");
+  background-attachment: fixed;
+  height: 100px;
+  width: 25%;
+}
+table,tr,th
+{
+  border: 2px dashed wheat;
+  height: 250px;
+  width: 450px;
+  background-color: gray;
+}
+p
+{
+  color: aqua;
+  font-size: x-large;
+  font-style: italic;
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+.button
+{
+  border: 1px solid green;
+  color: green;
+  padding: 15px 20px;
+  border-radius: 25px;
+}
+.button:hover
+{
+  background-color: green;
+  color: white;
+}
+img:hover
+{
+  opacity: 0.5;
+}
+div
+{
+  float: left;
+}
